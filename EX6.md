@@ -16,7 +16,7 @@ create table employee1(empid NUMBER, empname VARCHAR(10), dept VARCHAR(10),salar
 ```
 
 ### PLSQL Cursor code:
-```
+
 set serveroutput on;
 
 declare
