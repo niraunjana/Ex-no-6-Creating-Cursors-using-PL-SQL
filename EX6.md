@@ -61,14 +61,11 @@ close employee_cursor;
 
 end;
 
-/
 
 ### OUTPUT:
+![WhatsApp Image 2023-09-29 at 23 24 28](https://github.com/niraunjana/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/119395610/f4e70111-6ad1-480f-a536-d1ec27e548eb)
 
-![WhatsApp Image 2023-09-29 at 23 24 28](https://github.com/niraunjana/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/119395610/c0864492-2418-4e65-a199-ee9a1597567e)
-
-![WhatsApp Image 2023-09-29 at 23 25 58](https://github.com/niraunjana/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/119395610/89d47287-1987-4027-992d-7387a2385322)
-
+![WhatsApp Image 2023-09-29 at 23 25 58](https://github.com/niraunjana/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/119395610/1a81af03-6192-4f4f-8fee-da3b74e2e420)
 
 ### RESULT:
 
