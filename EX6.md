@@ -9,11 +9,11 @@
 4. Close the cursor
 
 ### Program:
+### Create employee table :
 
 ```
 create table employee1(empid NUMBER, empname VARCHAR(10), dept VARCHAR(10),salary NUMBER);
 ```
-### Create employee table
 
 ### PLSQL Cursor code:
 ```
@@ -62,12 +62,14 @@ close employee_cursor;
 end;
 
 /
-### Output:
+
+### OUTPUT:
 
 ![WhatsApp Image 2023-09-29 at 23 17 48](https://github.com/niraunjana/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/119395610/f9e54f56-9c53-4561-b28e-c4b60d463a18)
 
 ![WhatsApp Image 2023-09-29 at 23 18 01](https://github.com/niraunjana/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/119395610/f3067984-66c4-46b7-b190-1a2df3f8beea)
 
-### Result:
+
+### RESULT:
 
 Thus a cursor is created using PL/SQL successfully.
